@@ -1,0 +1,1 @@
+# Node-red--telegraf-rabbitmq-configuration
